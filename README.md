@@ -12,8 +12,8 @@ Soy estudiante de Ingeniería de Software y desarrollador Front-End 🌐 en cons
 ### 🧐 Acerca de mi:
 
 - 🔭 &nbsp; Me gusta trabajar en equipo
-- 🌱 &nbsp; Aprendiendo Vue.js
-- 🎨 &nbsp; Aprendiendo sobre diseño
+- 🌱 &nbsp; Aprendiendo Vue.js y Flutter
+- 🎨 &nbsp; Aprendiendo sobre Desing UX/UI
 
 
 ## Tecnologias 💻
