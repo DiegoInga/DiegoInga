@@ -12,11 +12,10 @@
 
 ## 🚀 Desarrollador Front-End Junior
 
-Estudiante de **Ingeniería de Software** en la Universidad Autónoma del Perú, especializado en crear interfaces web modernas y funcionales. Me apasiona transformar ideas en experiencias digitales atractivas, priorizando el rendimiento, la accesibilidad y la experiencia de usuario.
+Estudiante de **Ingeniería de Software**, enfocado en crear interfaces web modernas y funcionales. Me apasiona transformar ideas en experiencias digitales atractivas, priorizando el rendimiento, la accesibilidad y la experiencia de usuario.
 
 💼 **Experiencia en:** React (Next.js), Vue (Nuxt), Astro, TypeScript, Tailwind CSS y Supabase  
-🎯 **Enfoque:** Desarrollo full-stack con énfasis en frontend, arquitectura escalable y mejores prácticas  
-🌱 **Actualmente aprendiendo:** Backend con NestJS, arquitecturas escalables y patrones de diseño
+🌱 **Actualmente aprendiendo:** Backend con NestJS, desarrollo móvil con Flutter y mejorando en UX/UI con Figma
 
 ---
 
@@ -34,6 +33,7 @@ Estudiante de **Ingeniería de Software** en la Universidad Autónoma del Perú,
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **Styling & UI**
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -55,24 +55,15 @@ Estudiante de **Ingeniería de Software** en la Universidad Autónoma del Perú,
 
 ## 📚 Actualmente aprendiendo
 
-🔥 **Backend Development** - NestJS, TypeORM, arquitecturas escalables  
-🔥 **Patrones de diseño** - SOLID, Clean Architecture, microservicios  
-🔥 **DevOps** - Docker, CI/CD, deployment strategies
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Languages" height="165">
-</div>
+🔥 **Backend Development** - NestJS para APIs REST escalables  
+🔥 **Desarrollo Móvil** - Flutter para aplicaciones multiplataforma  
+🔥 **UX/UI Design** - Mejorando habilidades de diseño en Figma
 
 ---
 
 ## 🧐 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** en la Universidad Autónoma del Perú
+- 🎓 Estudiante de **Ingeniería de Software**
 - 💼 Freelancer con experiencia en proyectos reales para clientes
 - 🌱 En constante aprendizaje de nuevas tecnologías y mejores prácticas
 - 🎨 Apasionado por crear experiencias web accesibles y de alto rendimiento
@@ -101,4 +92,3 @@ Estudiante de **Ingeniería de Software** en la Universidad Autónoma del Perú,
 <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
-
