@@ -89,6 +89,4 @@ Estudiante de **Ingeniería de Software**, enfocado en crear interfaces web mode
   
 💬 *Siempre abierto a nuevas oportunidades, proyectos colaborativos y desafíos donde pueda seguir creciendo como desarrollador.*
 
-<img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-
 </div>
