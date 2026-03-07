@@ -10,9 +10,9 @@
 
 ---
 
-## 🚀 Desarrollador Front-End Junior
+## 🚀 Desarrollador Front-End
 
-Estudiante de **Ingeniería de Software**, enfocado en crear interfaces web modernas y funcionales. Me apasiona transformar ideas en experiencias digitales atractivas, priorizando el rendimiento, la accesibilidad y la experiencia de usuario.
+Estudiante de **Ingeniería de Software** (7mo/8vo ciclo) con experiencia real en proyectos freelance: landing pages, dashboards administrativos y aplicaciones web a medida para clientes. Me apasiona transformar ideas en experiencias digitales atractivas, priorizando el rendimiento, la accesibilidad y la experiencia de usuario.
 
 💼 **Experiencia en:** React (Next.js), Vue (Nuxt), Astro, TypeScript, Tailwind CSS y Supabase  
 🌱 **Actualmente aprendiendo:** Backend con NestJS, desarrollo móvil con Flutter y mejorando en UX/UI con Figma
@@ -26,6 +26,7 @@ Estudiante de **Ingeniería de Software**, enfocado en crear interfaces web mode
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -34,6 +35,8 @@ Estudiante de **Ingeniería de Software**, enfocado en crear interfaces web mode
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
 ### **Styling & UI**
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -50,6 +53,9 @@ Estudiante de **Ingeniería de Software**, enfocado en crear interfaces web mode
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 
 ---
 
@@ -63,11 +69,12 @@ Estudiante de **Ingeniería de Software**, enfocado en crear interfaces web mode
 
 ## 🧐 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software**
-- 💼 Freelancer con experiencia en proyectos reales para clientes
+- 🎓 Estudiante de **Ingeniería de Software** — 7mo/8vo ciclo
+- 💼 Freelancer con experiencia en proyectos reales para clientes: **landing pages**, **dashboards administrativos** y **aplicaciones web a medida**
+- 🌐 Inglés básico — lectura técnica de documentación
 - 🌱 En constante aprendizaje de nuevas tecnologías y mejores prácticas
 - 🎨 Apasionado por crear experiencias web accesibles y de alto rendimiento
-- 🤝 Me encanta trabajar en equipo y compartir conocimientos
+- 🤝 Orientado al trabajo en equipo y a la entrega de soluciones de calidad
 - 🚀 Siempre buscando nuevos desafíos para crecer como desarrollador
 
 ---
