@@ -74,22 +74,6 @@ Estudiante de **Ingeniería de Software** (7mo/8vo ciclo) enfocado en construir 
 
 ---
 
-## 🌟 Proyectos Destacados
-
-### 🎵 PIB Music — Plataforma de Gestión para Ministerios de Alabanza
-Proyecto full-stack propio (2025-2026). Backend en **NestJS 11** con **Drizzle ORM** sobre **PostgreSQL (Neon)**, frontend en **Next.js 16**. Autenticación JWT con refresh tokens rotativos, RBAC con 4 roles, documentación de API con Swagger/OpenAPI (cliente TypeScript autogenerado con Orval, 42 modelos) y uploads a **Cloudflare R2** con presigned URLs.
-
-### 🏆 Interbarrios VES — Gestión de Torneos
-Desarrollador Frontend Junior (jul-nov 2025). Vistas completas para gestión de torneos deportivos: registro de delegados, CRUD de equipos/jugadores, partidos en vivo y estadísticas. Stack: **Next.js 15, TypeScript, TanStack Query v5, Zustand, React Hook Form + Zod**, con generación de cliente tipado vía Orval.
-
-### 💧 AquaSaludVida — Plataforma Administrativa
-Desarrollo freelance (sep-oct 2025). Plataforma de gestión integral (solicitudes, servicios, inventario) con **Next.js 15, Supabase Auth** (rutas protegidas + RLS) y **shadcn/ui**.
-
-### 🎀 TM Cositas — Plataforma Web Administrativa
-Desarrollo freelance (oct-nov 2025). Digitalización de la gestión de un negocio de decoraciones: **Next.js 15, Supabase y shadcn/ui**, con estructura modular para CRUD de servicios, productos e inventario.
-
----
-
 ## 🧐 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software** — 7mo/8vo ciclo
@@ -119,7 +103,5 @@ Desarrollo freelance (oct-nov 2025). Digitalización de la gestión de un negoci
 <div align="center">
 
 💬 *Siempre abierto a nuevas oportunidades, proyectos colaborativos y desafíos donde pueda seguir creciendo como desarrollador.*
-
-</div>
 
 </div>
