@@ -16,6 +16,7 @@
 Estudiante de **Ingeniería de Software** (7mo/8vo ciclo) enfocado en construir productos completos: desde interfaces modernas en **React/Next.js** hasta APIs robustas en **NestJS** con bases de datos **PostgreSQL**. Cuento con experiencia real desplegando aplicaciones en producción, integrando servicios cloud y trabajando tanto en proyectos freelance como en equipo. Potencio mi ciclo de desarrollo aplicando Inteligencia Artificial (OpenCode, Model Context Protocol y Agentes de IA) para acelerar la arquitectura y la implementación de código, siempre cuidando el rendimiento y la experiencia de usuario.
 
 💼 **Experiencia en:** React (Next.js 15/16), Vue (Nuxt), Astro, TypeScript, NestJS, PostgreSQL, Tailwind CSS y Supabase
+
 🌱 **Actualmente aprendiendo:** Desarrollo móvil con Flutter y mejorando en UX/UI con Figma
 
 ---
