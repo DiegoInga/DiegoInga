@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:6366f1&height=200&section=header&text=Diego%20Inga&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Building%20with%20AI&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="https://portfolio-web-phi-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/diegoinga10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:diegoingasilva@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/51972031333"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://portfolio-web-phi-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+de+Software+%C2%B7+7mo%2F8vo+ciclo;React+%2F+Next.js+%C2%B7+NestJS+%2F+PostgreSQL;Automatizando+workflows+con+IA+%2B+MCP;Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=React+%2F+Next.js+16+%C2%B7+NestJS+%2F+PostgreSQL;Construyendo+productos+con+IA+aplicada+al+dev;Freelance+Full-Stack+Developer;Lima%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA" alt="typing-svg" />
 
 </div>
 
@@ -19,10 +19,10 @@
 
 ```yaml
 subject:     Diego Felipe Inga Silva
-role:        Full-Stack Developer (Jr) · Operations Automation
-education:   Ingeniería de Software — 7mo/8vo ciclo
-focus:       Interfaces en React/Next.js · APIs en NestJS · IA aplicada al dev
-learning:    Flutter · UX/UI en Figma
+role:        Full-Stack Developer · Freelance
+focus:       Aplicaciones web completas (frontend + backend + BD)
+approach:    Desarrollo acelerado con IA (Claude Code, Copilot, Cursor)
+portfolio:   portfolio-web-phi-two.vercel.app
 location:    Lima, Perú (UTC-05:00)
 ```
 
@@ -34,24 +34,40 @@ location:    Lima, Perú (UTC-05:00)
 <tr>
 <td valign="top" width="50%">
 
-**Lenguajes**
+**Frontend Moderno**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,vue,nuxt,ts,js" />
 
-**Frontend**
+**UI & Animación**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,astro,flutter" />
+<img src="https://skillicons.dev/icons?i=tailwind,materialui" /> &nbsp;shadcn/ui · Framer Motion · GSAP · Recharts
 
 </td>
 <td valign="top" width="50%">
 
-**Backend & Datos**
+**Backend & APIs**
 <br>
-<img src="https://skillicons.dev/icons?i=nestjs,express,supabase,postgres" />
+<img src="https://skillicons.dev/icons?i=nestjs,express,py" /> &nbsp;JWT/RBAC · Swagger/OpenAPI
 
-**Cloud & Tools**
+**Estado & Formularios**
 <br>
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,git,github,figma" />
+Zustand · TanStack Query · React Hook Form · Zod
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Bases de Datos & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,cloudflare,vercel" /> &nbsp;Drizzle ORM · Neon · Resend · Hostinger
+
+</td>
+<td valign="top" width="50%">
+
+**DevOps & Testing**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,jest,vitest,cypress" />
 
 </td>
 </tr>
@@ -59,7 +75,10 @@ location:    Lima, Perú (UTC-05:00)
 
 <div align="center">
 
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=cursor&logoColor=white)
+![Turbopack](https://img.shields.io/badge/Turbopack-000000?style=flat-square&logo=turbopack&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-1a1a2e?style=flat-square)
 
 </div>
@@ -83,7 +102,7 @@ location:    Lima, Perú (UTC-05:00)
 
 <div align="center">
 
-📧 diegoingasilva@gmail.com &nbsp;·&nbsp; 💼 [in/diegoinga10](https://www.linkedin.com/in/diegoinga10/) &nbsp;·&nbsp; 📱 +51 972 031 333
+📧 diegoingasilva@gmail.com &nbsp;·&nbsp; 💼 [in/diegoinga10](https://www.linkedin.com/in/diegoinga10/) &nbsp;·&nbsp; 🌐 [portfolio](https://portfolio-web-phi-two.vercel.app/) &nbsp;·&nbsp; 📱 +51 972 031 333
 
 *Abierto a nuevas oportunidades y proyectos donde seguir creciendo como Full-Stack Developer.*
 
